@@ -11,7 +11,7 @@ This project demonstrates how to set up TensorFlow's Object Detection API in a G
 
 - A Google Drive account with sufficient storage space.
 - Google Colab environment for executing the code.
-- The TensorFlow and Keras libraries (the script confirms the version 2.13.0 and 2.13.1 respectively).
+- The TensorFlow and Keras libraries (the script confirms the version 2.13.0 and 2.13.1 respectively)
 
 ## Setup Instructions
 
