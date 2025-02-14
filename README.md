@@ -7,7 +7,7 @@ Object Detectiom API
 
 This project demonstrates how to set up TensorFlow's Object Detection API in a Google Colab environment, including mounting Google Drive for persistent storage, cloning TensorFlow models, and preparing datasets for object detection tasks.
 
-## Prerequisites
+## Prerequisites .
 
 - A Google Drive account with sufficient storage space.
 - Google Colab environment for executing the code.
